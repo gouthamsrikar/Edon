@@ -33,4 +33,5 @@ const server = http.createServer((req, res) => {
 const yui='fsfs';
 server.listen(8000, '127.0.0.1', () => {
     console.log('server  shuru hogaya bhai');
+    console.log('haaa bhai aagaya swag');
 });
